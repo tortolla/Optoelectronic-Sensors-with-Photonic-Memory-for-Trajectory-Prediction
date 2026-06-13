@@ -1,0 +1,121 @@
+scenario,sensor,frames,speed,replicate,ATE,RMSE,name
+"20 discretisation, no noise",normal,1,,1,32.24,16.42,normal-1
+"20 discretisation, no noise",normal,2,,2,25.06,12.8,normal-2
+"20 discretisation, no noise",normal,3,,3,25.31,13.21,normal-3
+"20 discretisation, no noise",normal,4,,4,24.77,13.98,normal-4
+"20 discretisation, no noise",normal,5,,5,24.87,13.52,normal-5
+"20 discretisation, no noise",normal,6,,6,24.82,13.0,normal-6
+"20 discretisation, no noise",neuro,1,15.0,1,31.26,16.07,neuro-15-1
+"20 discretisation, no noise",neuro,2,15.0,2,31.46,17.41,neuro-15-2
+"20 discretisation, no noise",neuro,3,15.0,3,29.8,15.54,neuro-15-3
+"20 discretisation, no noise",neuro,4,15.0,4,29.34,15.57,neuro-15-4
+"20 discretisation, no noise",neuro,5,15.0,5,30.19,16.23,neuro-15-5
+"20 discretisation, no noise",neuro,6,15.0,6,29.83,16.78,neuro-15-6
+"20 discretisation, no noise",neuro,1,60.0,1,28.95,14.87,neuro-60-1
+"20 discretisation, no noise",neuro,2,60.0,2,27.73,14.97,neuro-60-2
+"20 discretisation, no noise",neuro,3,60.0,3,30.66,16.3,neuro-60-3
+"20 discretisation, no noise",neuro,4,60.0,4,26.95,14.17,neuro-60-4
+"20 discretisation, no noise",neuro,5,60.0,5,28.17,15.36,neuro-60-5
+"20 discretisation, no noise",neuro,6,60.0,6,26.58,14.8,neuro-60-6
+"20 discretisation, no noise",neuro,1,400.0,1,30.5,15.44,neuro-400-1
+"20 discretisation, no noise",neuro,2,400.0,2,25.77,13.79,neuro-400-2
+"20 discretisation, no noise",neuro,3,400.0,3,24.01,12.91,neuro-400-3
+"20 discretisation, no noise",neuro,4,400.0,4,24.02,13.31,neuro-400-4
+"20 discretisation, no noise",neuro,5,400.0,5,25.82,13.9,neuro-400-5
+"20 discretisation, no noise",neuro,6,400.0,6,24.32,12.93,neuro-400-6
+"5 discretisation, no noise",normal,1,,1,34.0,34.38,normal-1
+"5 discretisation, no noise",normal,2,,2,30.54,20.68,normal-2
+"5 discretisation, no noise",normal,3,,3,31.23,27.09,normal-3
+"5 discretisation, no noise",normal,4,,4,27.32,23.49,normal-4
+"5 discretisation, no noise",normal,5,,5,29.65,24.95,normal-5
+"5 discretisation, no noise",normal,6,,6,28.14,18.71,normal-6
+"5 discretisation, no noise",neuro,1,15.0,1,41.24,24.61,neuro-15-1
+"5 discretisation, no noise",neuro,2,15.0,2,42.9,25.32,neuro-15-2
+"5 discretisation, no noise",neuro,3,15.0,3,41.48,25.98,neuro-15-3
+"5 discretisation, no noise",neuro,4,15.0,4,41.52,24.7,neuro-15-4
+"5 discretisation, no noise",neuro,5,15.0,5,41.13,24.0,neuro-15-5
+"5 discretisation, no noise",neuro,6,15.0,6,29.83,16.78,neuro-15-6
+"5 discretisation, no noise",neuro,1,60.0,1,31.92,22.86,neuro-60-1
+"5 discretisation, no noise",neuro,2,60.0,2,29.34,21.65,neuro-60-2
+"5 discretisation, no noise",neuro,3,60.0,3,33.36,23.64,neuro-60-3
+"5 discretisation, no noise",neuro,4,60.0,4,31.67,22.68,neuro-60-4
+"5 discretisation, no noise",neuro,5,60.0,5,32.44,21.26,neuro-60-5
+"5 discretisation, no noise",neuro,6,60.0,6,33.26,23.89,neuro-60-6
+"5 discretisation, no noise",neuro,1,400.0,1,29.65,24.06,neuro-400-1
+"5 discretisation, no noise",neuro,2,400.0,2,30.02,34.73,neuro-400-2
+"5 discretisation, no noise",neuro,3,400.0,3,25.75,19.61,neuro-400-3
+"5 discretisation, no noise",neuro,4,400.0,4,24.02,13.31,neuro-400-4
+"5 discretisation, no noise",neuro,5,400.0,5,24.83,22.22,neuro-400-5
+"5 discretisation, no noise",neuro,6,400.0,6,26.93,22.07,neuro-400-6
+"5 discretization, 80 20",normal,1,,1,43.549,34.5046,normal-1
+"5 discretization, 80 20",normal,2,,2,30.9473,29.2683,normal-2
+"5 discretization, 80 20",normal,3,,3,31.6293,30.2503,normal-3
+"5 discretization, 80 20",normal,4,,4,33.1503,37.5951,normal-4
+"5 discretization, 80 20",normal,5,,5,28.0906,24.2122,normal-5
+"5 discretization, 80 20",normal,6,,6,25.199,19.1283,normal-6
+"5 discretization, 80 20",neuro,1,15.0,1,42.1428,24.5695,neuro-15-1
+"5 discretization, 80 20",neuro,2,15.0,2,48.1107,26.312,neuro-15-2
+"5 discretization, 80 20",neuro,3,15.0,3,45.0332,24.8148,neuro-15-3
+"5 discretization, 80 20",neuro,4,15.0,4,49.7374,27.734,neuro-15-4
+"5 discretization, 80 20",neuro,5,15.0,5,45.2149,26.0529,neuro-15-5
+"5 discretization, 80 20",neuro,6,15.0,6,47.0147,26.6134,neuro-15-6
+"5 discretization, 80 20",neuro,1,60.0,1,38.031,33.1191,neuro-60-1
+"5 discretization, 80 20",neuro,2,60.0,2,38.6356,25.7514,neuro-60-2
+"5 discretization, 80 20",neuro,3,60.0,3,37.0462,26.7103,neuro-60-3
+"5 discretization, 80 20",neuro,4,60.0,4,39.4148,26.7826,neuro-60-4
+"5 discretization, 80 20",neuro,5,60.0,5,19.0597,11.1156,neuro-60-5
+"5 discretization, 80 20",neuro,6,60.0,6,40.6123,27.7581,neuro-60-6
+"5 discretization, 80 20",neuro,1,400.0,1,31.1295,33.009,neuro-400-1
+"5 discretization, 80 20",neuro,2,400.0,2,30.9516,28.358,neuro-400-2
+"5 discretization, 80 20",neuro,3,400.0,3,30.1444,21.8446,neuro-400-3
+"5 discretization, 80 20",neuro,4,400.0,4,30.9877,26.0004,neuro-400-4
+"5 discretization, 80 20",neuro,5,400.0,5,52.3429,45.1174,neuro-400-5
+"5 discretization, 80 20",neuro,6,400.0,6,33.0871,21.6966,neuro-400-6
+20 discretization 80 20,normal,1,,1,34.6686,17.474,normal-1
+20 discretization 80 20,normal,2,,2,23.9805,13.1445,normal-2
+20 discretization 80 20,normal,3,,3,24.4997,13.6681,normal-3
+20 discretization 80 20,normal,4,,4,24.3963,13.8155,normal-4
+20 discretization 80 20,normal,5,,5,23.7533,13.5058,normal-5
+20 discretization 80 20,normal,6,,6,24.1769,13.6576,normal-6
+20 discretization 80 20,neuro,1,15.0,1,30.3993,16.0442,neuro-15-1
+20 discretization 80 20,neuro,2,15.0,2,31.4958,16.755,neuro-15-2
+20 discretization 80 20,neuro,3,15.0,3,33.5284,16.8268,neuro-15-3
+20 discretization 80 20,neuro,4,15.0,4,30.862,16.6194,neuro-15-4
+20 discretization 80 20,neuro,5,15.0,5,32.7089,16.9067,neuro-15-5
+20 discretization 80 20,neuro,6,15.0,6,32.5089,17.9013,neuro-15-6
+20 discretization 80 20,neuro,1,60.0,1,26.6254,14.135,neuro-60-1
+20 discretization 80 20,neuro,2,60.0,2,26.1103,14.1926,neuro-60-2
+20 discretization 80 20,neuro,3,60.0,3,28.1337,15.2507,neuro-60-3
+20 discretization 80 20,neuro,4,60.0,4,28.1419,14.7975,neuro-60-4
+20 discretization 80 20,neuro,5,60.0,5,26.0249,14.224,neuro-60-5
+20 discretization 80 20,neuro,6,60.0,6,26.5518,14.523,neuro-60-6
+20 discretization 80 20,neuro,1,400.0,1,35.5926,17.355,neuro-400-1
+20 discretization 80 20,neuro,2,400.0,2,29.5306,14.5506,neuro-400-2
+20 discretization 80 20,neuro,3,400.0,3,25.1842,14.0694,neuro-400-3
+20 discretization 80 20,neuro,4,400.0,4,24.3328,13.8744,neuro-400-4
+20 discretization 80 20,neuro,5,400.0,5,24.2919,13.8618,neuro-400-5
+20 discretization 80 20,neuro,6,400.0,6,24.9171,13.6987,neuro-400-6
+"5 discretization, 50 10 noise",normal,1,,1,17.9423,8.63685,normal-1
+"5 discretization, 50 10 noise",normal,2,,2,6.2678,4.25239,normal-2
+"5 discretization, 50 10 noise",normal,3,,3,8.02044,4.25239,normal-3
+"5 discretization, 50 10 noise",normal,4,,4,7.50485,4.07155,normal-4
+"5 discretization, 50 10 noise",normal,5,,5,7.59952,4.00152,normal-5
+"5 discretization, 50 10 noise",normal,6,,6,7.22611,4.0165,normal-6
+"5 discretization, 50 10 noise",neuro,1,15.0,1,44.3888,25.3147,neuro-15-1
+"5 discretization, 50 10 noise",neuro,2,15.0,2,44.2762,25.5944,neuro-15-2
+"5 discretization, 50 10 noise",neuro,3,15.0,3,45.7575,27.0303,neuro-15-3
+"5 discretization, 50 10 noise",neuro,4,15.0,4,42.8,25.4205,neuro-15-4
+"5 discretization, 50 10 noise",neuro,5,15.0,5,46.7319,28.12,neuro-15-5
+"5 discretization, 50 10 noise",neuro,6,15.0,6,44.8346,25.0049,neuro-15-6
+"5 discretization, 50 10 noise",neuro,1,60.0,1,32.7763,23.1142,neuro-60-1
+"5 discretization, 50 10 noise",neuro,2,60.0,2,33.9647,25.1524,neuro-60-2
+"5 discretization, 50 10 noise",neuro,3,60.0,3,33.6078,23.7538,neuro-60-3
+"5 discretization, 50 10 noise",neuro,4,60.0,4,35.0254,24.8887,neuro-60-4
+"5 discretization, 50 10 noise",neuro,5,60.0,5,34.9236,22.6933,neuro-60-5
+"5 discretization, 50 10 noise",neuro,6,60.0,6,56.2949,56.4704,neuro-60-6
+"5 discretization, 50 10 noise",neuro,1,400.0,1,12.7071,6.79725,neuro-400-1
+"5 discretization, 50 10 noise",neuro,2,400.0,2,13.6381,7.11093,neuro-400-2
+"5 discretization, 50 10 noise",neuro,3,400.0,3,14.2148,7.74114,neuro-400-3
+"5 discretization, 50 10 noise",neuro,4,400.0,4,13.8493,7.57664,neuro-400-4
+"5 discretization, 50 10 noise",neuro,5,400.0,5,13.3583,6.98252,neuro-400-5
+"5 discretization, 50 10 noise",neuro,6,400.0,6,13.4832,7.4336,neuro-400-6
